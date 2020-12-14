@@ -1,0 +1,20 @@
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\bin\Debug\Practica1 Sambade Martinez, Miguel.exe.config
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\bin\Debug\Practica1 Sambade Martinez, Miguel.exe
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\bin\Debug\Practica1 Sambade Martinez, Miguel.pdb
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.csprojAssemblyReference.cache
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1_Sambade_Martinez__Miguel.Form1.resources
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1_Sambade_Martinez__Miguel.Properties.Resources.resources
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.csproj.GenerateResource.cache
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.exe
+C:\Users\miguel.sambademartin\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.pdb
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\bin\Debug\Practica1 Sambade Martinez, Miguel.exe.config
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\bin\Debug\Practica1 Sambade Martinez, Miguel.exe
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\bin\Debug\Practica1 Sambade Martinez, Miguel.pdb
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1_Sambade_Martinez__Miguel.Form1.resources
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1_Sambade_Martinez__Miguel.Properties.Resources.resources
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.exe
+C:\Users\migue\Downloads\Practica1-Sambade-Mart-nez-Miguel-master\obj\Debug\Practica1 Sambade Martinez, Miguel.pdb

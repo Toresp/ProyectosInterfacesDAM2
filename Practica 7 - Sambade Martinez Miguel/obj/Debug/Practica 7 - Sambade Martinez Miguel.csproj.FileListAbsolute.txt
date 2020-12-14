@@ -1,0 +1,35 @@
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.exe.config
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.exe
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.pdb
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.Form1.resources
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.Properties.Resources.resources
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.exe
+C:\Users\migue\source\repos\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.pdb
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.exe.config
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.exe
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.pdb
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csprojAssemblyReference.cache
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.buscaPalabra.resources
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.Form1.resources
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.Properties.Resources.resources
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csproj.GenerateResource.cache
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.exe
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.pdb
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.exe.config
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.exe
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\bin\Debug\Practica 7 - Sambade Martinez Miguel.pdb
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.buscaPalabra.resources
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.Form1.resources
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.Properties.Resources.resources
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.exe
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica 7 - Sambade Martinez Miguel.pdb
+C:\Users\miguel.sambademartin\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.encriptaGif.resources
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.encriptaGif.resources
+C:\Users\migue\Downloads\Practica 7 - Sambade Martinez Miguel\obj\Debug\Practica_7___Sambade_Martinez_Miguel.organizaVideos.resources

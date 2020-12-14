@@ -1,0 +1,10 @@
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica 5 - Sambade Martinez Miguel.csprojAssemblyReference.cache
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica_5___Sambade_Martinez_Miguel.Form1.resources
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica_5___Sambade_Martinez_Miguel.Properties.Resources.resources
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica 5 - Sambade Martinez Miguel.csproj.GenerateResource.cache
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica 5 - Sambade Martinez Miguel.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\bin\Debug\Practica 5 - Sambade Martinez Miguel.exe.config
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\bin\Debug\Practica 5 - Sambade Martinez Miguel.exe
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\bin\Debug\Practica 5 - Sambade Martinez Miguel.pdb
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica 5 - Sambade Martinez Miguel.exe
+C:\Users\miguel.sambademartin\source\repos\Practica 5 - Sambade Martinez Miguel\obj\Debug\Practica 5 - Sambade Martinez Miguel.pdb

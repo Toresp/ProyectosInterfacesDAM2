@@ -1,0 +1,20 @@
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\bin\Debug\Practica4 Miguel Sambade.exe.config
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\bin\Debug\Practica4 Miguel Sambade.exe
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\bin\Debug\Practica4 Miguel Sambade.pdb
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.csprojAssemblyReference.cache
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4_Miguel_Sambade.Form1.resources
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4_Miguel_Sambade.Properties.Resources.resources
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.csproj.GenerateResource.cache
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.csproj.CoreCompileInputs.cache
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.exe
+C:\Users\miguel.sambademartin\source\repos\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.pdb
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\bin\Debug\Practica4 Miguel Sambade.exe.config
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\bin\Debug\Practica4 Miguel Sambade.exe
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\bin\Debug\Practica4 Miguel Sambade.pdb
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.csprojAssemblyReference.cache
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4_Miguel_Sambade.Form1.resources
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4_Miguel_Sambade.Properties.Resources.resources
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.exe
+C:\Users\migue\Downloads\Practica4 Miguel Sambade\obj\Debug\Practica4 Miguel Sambade.pdb
